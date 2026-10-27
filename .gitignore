@@ -1,0 +1,11 @@
+# local secrets
+.env
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# virtual environments
+myenv/
+venv/
+.venv/
